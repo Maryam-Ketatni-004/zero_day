@@ -1,0 +1,1 @@
+THIS  is vagrant directory
